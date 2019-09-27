@@ -2,5 +2,6 @@
 
 def display_board
   grid = []
+  row = []
   
 end
