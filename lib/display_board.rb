@@ -2,6 +2,6 @@
 
 def display_board
   
-  puts Array.new(3) { Array.new(3)
+  puts Array.new(3) { Array.new(3, " ") }
   
 end
